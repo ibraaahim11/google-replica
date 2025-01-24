@@ -1,0 +1,17 @@
+#google-png-col{
+    margin-top: 10rem;
+    margin-right: 1rem
+}
+
+#search-col{
+    margin-right: 1.1rem;
+}
+
+.form-control:focus {
+    border-color: grey;
+    box-shadow: 0px 1px 1px grey inset, 0px 0px 1px grey;
+
+}
+#Advanced-Search{
+    margin-top: 5rem;
+}
